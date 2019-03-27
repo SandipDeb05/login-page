@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+h2{
+   margin-left: 50px;
+    margin-top: -10px
+}
+.fa-user{
+    font-size: 40px;
+    padding:0px 0px 10px 80px; 
+}
+html{
+    background: url(photox/cover.jpeg) no-repeat center center fixed;
+    background-size: cover;
+}
+.login{
+    border-radius: 20px;
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    position: absolute;
+    top:25%;
+    left: 35%;
+    padding: 80px 0px 0px 90px;
+    box-shadow: 5px 10px 40px 
+}
+ul li{
+    list-style: none;
+    margin-bottom: 10px;
+    margin-left: 0px;
+}
+ul{
+    margin: 0;
+    padding: 0px;
+}
+.btn{
+    border: 0px;
+    margin: 0px;
+    width: 200px;
+    height: 40px;
+    margin-top: 20px;
+    background-color: gray;
+    font-size: 15px;
+    color: white;
+    
+}
+input.email, input.password{
+    background-color: transparent;
+   border: 0px;
+    height: 20px;
+    width: 200px;
+    border-bottom: 1px solid 
+}
+.forgot{
+    padding: 0px 0px 0px 50px;
+}
+.btn:hover{
+    background-color: darkgray;
+}
